@@ -1,0 +1,3 @@
+# Web Scrape Links From a Website 
+
+The various functions are used to webscrape links off a website. The web scrape is initiated with the main function. There is function (french_filter) to filter for french pages if they are not wanted. The getp function gets the paragraph text of the links. The write_txt and write_txt2 write their respective inputs to a txt file. At the bottom, just for fun, there is a regular expression for matching urls. As an example, the code was ran with 'https://vigilantglobal.com/'.  
